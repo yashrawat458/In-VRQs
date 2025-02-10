@@ -1,0 +1,31 @@
+- Iteratively implemented an in-VRQ tool and applied it on 2 user studies to test it out
+- they did an extensive lit review and found 15 papers using in-VRQs
+- stated there are 3 levels of immersion
+	1. Engagement
+	2. Engrossment
+	3. total immersion
+- Presence relies on immersion and involvement
+- Transition between realities can invoke negative feelings and add biases
+- 83,91 supports the assessment of questions in VR
+- A dimension which they saw in literature was the attachment of interface
+	- world attached
+	- Head attached
+	- body attached
+- They did and expert online survey for inVRQs
+	- experts had a positive attitude towards inVRQs
+	- there is no standard method for inVRQ
+	- inVRQ do not seem to be much usable (usability can be low)
+	- some challenges which researchers might face are
+		- Technical challenges
+		- Implementation effort
+		- Biases
+		- Participant overload
+- the dimension they initially tested are
+	- Interaction modality 
+		- lazer pointing
+		- touching
+	- Anchoring
+		- world referenced
+		- body referenced
+- they did another study which involved presence
+- 
