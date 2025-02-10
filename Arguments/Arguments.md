@@ -8,6 +8,14 @@ In addition, there is no clear guide for implementing in-VR questionnaires consi
 > [!Why not to leave VR]
 > A study by (26) [[The dream is collapsing-  the experience of exiting vr]] shows that leaving a virtual environment can lead to dis-orientation.
 
+
+
+> [!NOTE] Title
+>  Schwind et al. - [[Using presence questionnaires in virtual reality]] investigated the effect of filling out a questionnaire directly in VR. They replicated their lab in VR and asked participants to fill out presence questionnaires in physical reality and in VR after exposing participants to a VE at varying degrees of realism. Schwind et al. could not find significant differences of presence between the 2 questionnaire modalities. However, the data revealed a lower variance and, thus, higher consistency of the data when the questions were answered in VR. 
+>  > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
+
+
+
 [[(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces]]
 
 

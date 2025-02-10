@@ -28,4 +28,11 @@
 		- world referenced
 		- body referenced
 - they did another study which involved presence
-- 
+
+
+
+
+---
+### Further reading
+
+[[Using presence questionnaires in virtual reality]]
