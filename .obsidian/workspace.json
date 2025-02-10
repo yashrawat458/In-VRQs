@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f26616a7ea3473d6",
+    "id": "ea73997c11299f06",
     "type": "split",
     "children": [
       {
-        "id": "0d19b1a0062eb41f",
+        "id": "a4972c89bdf8e48d",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c9d17703e7c198",
+            "id": "03177843faac88c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,34 +20,50 @@
               "icon": "lucide-file",
               "title": "Examining Design Choices of Questionnaires in VR User Studies"
             }
+          },
+          {
+            "id": "ea949445a3ea545c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a95a6cbdae5db7d3",
+    "id": "ef60e488b2bf2370",
     "type": "split",
     "children": [
       {
-        "id": "a041702f21aabd24",
+        "id": "4ada975ff662e0d0",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4c4758cadeb91b",
+            "id": "8d76fc20e3b7545e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "7269d44aad5cd3e3",
+            "id": "5a7413cdb2f19aaa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +80,7 @@
             }
           },
           {
-            "id": "0c3b9104ba2aa342",
+            "id": "80ee3e9d011506e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +93,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
-    "id": "be151aee7c217d86",
+    "id": "a6184121c7ee3818",
     "type": "split",
     "children": [
       {
-        "id": "e1fd05a83153d717",
+        "id": "7e82ae411f5d900a",
         "type": "tabs",
         "children": [
           {
-            "id": "a55dd3a59cd25ae3",
+            "id": "bbbb796d31a03186",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Examining Design Choices of Questionnaires in VR User Studies.md",
+                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +120,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Examining Design Choices of Questionnaires in VR User Studies"
+              "title": "Backlinks for A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
             }
           },
           {
-            "id": "0193429f40e844b4",
+            "id": "aed66b279d5c1c31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Examining Design Choices of Questionnaires in VR User Studies.md",
+                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Examining Design Choices of Questionnaires in VR User Studies"
+              "title": "Outgoing links from A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
             }
           },
           {
-            "id": "810161d45553d3d2",
+            "id": "012ea91c43751439",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "0f3f2dd5542693f7",
+            "id": "10b646251a0a17fc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Examining Design Choices of Questionnaires in VR User Studies.md"
+                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Examining Design Choices of Questionnaires in VR User Studies"
+              "title": "Outline of A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
             }
           }
         ]
@@ -163,11 +184,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c9d17703e7c198",
+  "active": "ea949445a3ea545c",
   "lastOpenFiles": [
+    "Papers/frvir-03-694433.pdf",
+    "Papers/Foundations of multimodal representations a taxonomy of representational modalities.pdf",
+    "Papers/978-3-031-35634-6_2.pdf",
+    "Papers/Using Presence Questionnaires in Virtual Reality.pdf",
+    "Papers/Towards_a_taxonomy_of_virtual_reality_user_interfaces.pdf",
+    "Papers/the_sense_of_presence_within_virtual_environments_a_conceptual_framework.pdf",
+    "Papers/The Virtual Reality Questionnaire Toolkit.pdf",
+    "Papers/Taxonomic Issues for Multimodal and Multimedia Interactive Syste.pdf",
+    "Papers/MULTIMODALITY IN LANGUAGE AND SPEECH.pdf",
+    "Papers/Investigating Effects and User Preferences of Extra.pdf",
     "Papers/inProgress/Examining Design Choices of Questionnaires in VR User Studies.pdf",
-    "Notes/Examining Design Choices of Questionnaires in VR User Studies.md",
-    "README.md",
-    "Notes"
+    "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+    "Notes/Examining Design Choices of Questionnaires in VR User Studies.md"
   ]
 }
