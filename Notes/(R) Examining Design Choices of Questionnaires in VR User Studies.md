@@ -27,5 +27,24 @@
 	- Anchoring
 		- world referenced
 		- body referenced
-- they did another study which involved presence
-- 
+
+- guidelines from research and industry which recommend signed distance field fonts
+- In line with Dingler et al. [40], we used light glyphs on a dark background
+
+> in an experiment, To provide a context to the VE, we used a sci-fi scene (plausibility could be higher)
+
+> in another experiment, a realistic environment with mountains, trees, a river and high resolution textures was used (plausibility could be lower for 2D interfaces in 3D environment)
+
+- a balloon shooting task was given to the user
+
+> For demonstrating a greater variety of question types, we additionally included questions about the VE ( 1x numerical, 4x single choice with 2–5 items, 4x multiple choice with 5 and 16 items)
+
+
+
+
+
+
+---
+### Further reading
+
+[[Using presence questionnaires in virtual reality]]

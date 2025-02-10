@@ -22,6 +22,28 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 
+
+> [!NOTE] No significant difference in presence for inVR and outVRQs but the answers are consistent for inVRQs
+>  Schwind et al. - [[Using presence questionnaires in virtual reality]] investigated the effect of filling out a questionnaire directly in VR. They replicated their lab in VR and asked participants to fill out presence questionnaires in physical reality and in VR after exposing participants to a VE at varying degrees of realism. Schwind et al. could not find significant differences of presence between the 2 questionnaire modalities. However, the data revealed a lower variance and, thus, higher consistency of the data when the questions were answered in VR. 
+>  > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
+
+> [!NOTE] Users verbally agreeing to inVRQs
+> 17/38 users criticized changing from VR to physical reality and stated that not having to switch the system feels more fluent and “better integrated” (P12). 4 users addressed the BIP due to the change of medium and how it might affect data quality.
+> 
+> ---
+> Also The majority of the participants (27/38) stated their VR experience as “fun” or “enjoyable”
+> 
+> ---
+>Correspondingly, 8 valued the immediacy of the surveying in VR
+>
+>---
+>A majority of 31/38 would prefer to do it in VR, 5 on a computer and 2 had ambivalent opinions.
+> > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
+
+
+
+
+
 [[(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces]]
 
 
