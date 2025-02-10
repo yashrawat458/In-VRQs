@@ -1,0 +1,1 @@
+Frommel, J., Rogers, K., Brich, J., Besserer, D., Bradatsch, L., Ortinau, I., Sch abenberger, R., Riemer, V., Schrader, C., Weber, M.: Integrated questionnaires: maintaining presence in game environments for self-reported data acquisition pp. 359–368 (2015)

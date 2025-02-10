@@ -1,0 +1,1 @@
+Abeele, V.V., Spiel, K., Nacke, L., Johnson, D., Gerling, K.: Development and validation of the player experience inventory: A scale to measure player experiences at the level of functional and psychosocial consequences. International Journal of Human Computer Studies 135(June 2019) (2020). https://doi.org/10.1016/j. ijhcs.2019.102370

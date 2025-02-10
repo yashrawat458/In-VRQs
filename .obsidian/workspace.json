@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Examining Design Choices of Questionnaires in VR User Studies.md",
+                "file": "Notes/(R) Examining Design Choices of Questionnaires in VR User Studies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Examining Design Choices of Questionnaires in VR User Studies"
+              "title": "(R) Examining Design Choices of Questionnaires in VR User Studies"
             }
           },
           {
@@ -27,16 +27,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "file": "Notes/(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+              "title": "(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+            }
+          },
+          {
+            "id": "ab471af10f471c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+            }
+          },
+          {
+            "id": "9c4886c06403c566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments"
+            }
+          },
+          {
+            "id": "734f87d560f2d174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Breaking the experience - Effects of questionnaires in vr user studies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Breaking the experience - Effects of questionnaires in vr user studies"
+            }
+          },
+          {
+            "id": "d306aa1b8ea450b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Engagement in in-game questionnaires perspectives from users and experts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engagement in in-game questionnaires perspectives from users and experts"
+            }
+          },
+          {
+            "id": "27ec674669325436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition"
+            }
+          },
+          {
+            "id": "65251e3dacc4c163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+            }
+          },
+          {
+            "id": "883c27767450dc09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/A systematic review of a virtual reality system from the perspective of user experience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A systematic review of a virtual reality system from the perspective of user experience"
+            }
+          },
+          {
+            "id": "9c25fe10de6b281e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease"
+            }
+          },
+          {
+            "id": "b9247c8c71323d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Using presence questionnaires in virtual reality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using presence questionnaires in virtual reality"
+            }
+          },
+          {
+            "id": "22cadc6ddd19c1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+            }
+          },
+          {
+            "id": "1ae2176a5d38a31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arguments/Arguments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arguments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -93,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6184121c7ee3818",
@@ -110,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "file": "Arguments/Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+              "title": "Backlinks for Arguments"
             }
           },
           {
@@ -129,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "file": "Arguments/Arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+              "title": "Outgoing links from Arguments"
             }
           },
           {
@@ -158,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+                "file": "Arguments/Arguments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces"
+              "title": "Outline of Arguments"
             }
           }
         ]
@@ -184,8 +337,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea949445a3ea545c",
+  "active": "1ae2176a5d38a31f",
   "lastOpenFiles": [
+    "Notes/Using presence questionnaires in virtual reality.md",
+    "Notes/Engagement in in-game questionnaires perspectives from users and experts.md",
+    "Notes/The experience of presence- Factor analytic insights.md",
+    "Notes/The dream is collapsing-  the experience of exiting vr.md",
+    "Notes/Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease.md",
+    "Arguments/Arguments.md",
+    "Notes/(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
+    "Notes/(R) Examining Design Choices of Questionnaires in VR User Studies.md",
+    "Arguments",
+    "Notes/The motivational pull of video games  A self-determination theory approach.md",
+    "Untitled.canvas",
+    "Notes/A taxonomy of interaction techniques for immersive augmented reality based on an iterative literature review.md",
+    "Notes/A systematic review of a virtual reality system from the perspective of user experience.md",
+    "Notes/Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition.md",
+    "README.md",
+    "Notes/Breaking the experience - Effects of questionnaires in vr user studies.md",
+    "Notes/Development and validation of the player experience inventory  A scale to measure player experiences at the level of functional and psychosocial consequences.md",
+    "Notes/Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments.md",
+    "Papers/Questionnaires embedded in virtual environments reliability.pdf",
+    "The motivational pull of video games  A self determination theory approach.md",
+    "().md",
     "Papers/frvir-03-694433.pdf",
     "Papers/Foundations of multimodal representations a taxonomy of representational modalities.pdf",
     "Papers/978-3-031-35634-6_2.pdf",
@@ -193,11 +367,6 @@
     "Papers/Towards_a_taxonomy_of_virtual_reality_user_interfaces.pdf",
     "Papers/the_sense_of_presence_within_virtual_environments_a_conceptual_framework.pdf",
     "Papers/The Virtual Reality Questionnaire Toolkit.pdf",
-    "Papers/Taxonomic Issues for Multimodal and Multimedia Interactive Syste.pdf",
-    "Papers/MULTIMODALITY IN LANGUAGE AND SPEECH.pdf",
-    "Papers/Investigating Effects and User Preferences of Extra.pdf",
-    "Papers/inProgress/Examining Design Choices of Questionnaires in VR User Studies.pdf",
-    "Notes/A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces.md",
-    "Notes/Examining Design Choices of Questionnaires in VR User Studies.md"
+    "Papers/Taxonomic Issues for Multimodal and Multimedia Interactive Syste.pdf"
   ]
 }

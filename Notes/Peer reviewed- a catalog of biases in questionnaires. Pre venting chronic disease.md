@@ -1,0 +1,1 @@
+Choi, B.C., Pak, A.W.: Peer reviewed: a catalog of biases in questionnaires. Pre venting chronic disease 2(1) (2005)

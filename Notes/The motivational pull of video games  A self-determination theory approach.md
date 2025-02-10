@@ -1,0 +1,1 @@
+Ryan, R.M., Rigby, C.S., Przybylski, A.: The motivational pull of video games: A self-determination theory approach. Motivation and emotion 30(4), 344–360 (2006)

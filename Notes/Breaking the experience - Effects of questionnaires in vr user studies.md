@@ -1,0 +1,1 @@
+Putze, S., Alexandrovsky, D., Putze, F., Höffner, S., Smeddinck, J.D., Malaka, R.: Breaking the experience: Effects of questionnaires in vr user studies. In: Proceed ings of the 2020 CHI Conference on Human Factors in Computing Systems. pp. 1–15 (2020)

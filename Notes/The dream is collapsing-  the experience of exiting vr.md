@@ -1,0 +1,1 @@
+Knibbe, J., Schjerlund, J., Petraeus, M., Hornbæk, K.: The dream is collapsing: the experience of exiting vr. In: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. pp. 1–13 (2018)

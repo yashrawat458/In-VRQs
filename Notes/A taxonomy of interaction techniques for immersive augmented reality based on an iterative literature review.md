@@ -1,0 +1,1 @@
+Hertel, J., Karaosmanoglu, S., Schmidt, S., Bräker, J., Semmann, M., Steinicke, F.: A taxonomy of interaction techniques for immersive augmented reality based on an iterative literature review. In: 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). pp. 431–440. IEEE (2021)

@@ -1,0 +1,1 @@
+Regal, G., Voigt-Antons, J.N., Schmidt, S., Schrammel, J., Kojić, T., Tscheligi, M., Möller, S.: Questionnaires embedded in virtual environments: reliability and positioning of rating scales in virtual environments. Quality and User Experience 4(1), 1–13 (2019)!

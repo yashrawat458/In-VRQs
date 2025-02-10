@@ -1,1 +1,0 @@
-Previous research demonstrates that the interruption of immersive experiences may lead to a bias in the results of questionnaires. Thus, the traditional way of presenting questionnaires, paper-based or web-based, may not be compatible with evaluating VR experiences. 

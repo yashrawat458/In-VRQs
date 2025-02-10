@@ -1,0 +1,1 @@
+Schubert, T., Friedmann, F., Regenbrecht, H.: The experience of presence: Factor analytic insights. Presence: Teleoperators & Virtual Environments 10(3), 266–281 (2001) 

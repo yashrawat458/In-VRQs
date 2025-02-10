@@ -1,0 +1,1 @@
+Kim, Y.M., Rhiu, I., Yun, M.H.: A systematic review of a virtual reality system from the perspective of user experience. International Journal of Human–Computer Interaction 36(10), 893–910 (2020)
