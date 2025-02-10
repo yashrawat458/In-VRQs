@@ -1,0 +1,1 @@
+Graf, S., Schwind, V.: Inconsistencies of presence questionnaires in virtual reality. In: 26th ACM Symposium on Virtual Reality Software and Technology. pp. 1–3 (2020)
