@@ -51,6 +51,13 @@ On the other hand, the consistency of the interaction method with the type of co
 > This supports prior findings that presence questionnaires are inadequate to assess BIPs [171].
 > > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
 
+> [!NOTE] whats wrong with inVRQs
+> some challenges which researchers might face are
+> - Technical challenges
+> - Implementation effort
+> 
+	> from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
+
 
 
 

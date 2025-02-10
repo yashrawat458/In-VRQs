@@ -1,12 +1,14 @@
+[[Examining Design Choices of Questionnaires in VR User Studies.pdf]]
 - Iteratively implemented an in-VRQ tool and applied it on 2 user studies to test it out
 - they did an extensive lit review and found 15 papers using in-VRQs
+- ![[Pasted image 20250210154958.png]]
 - stated there are 3 levels of immersion
 	1. Engagement
 	2. Engrossment
 	3. total immersion
 - Presence relies on immersion and involvement
 - Transition between realities can invoke negative feelings and add biases
-- 83,91 supports the assessment of questions in VR
+- [83],[91] supports the assessment of questions in VR
 - A dimension which they saw in literature was the attachment of interface
 	- world attached
 	- Head attached
@@ -28,8 +30,8 @@
 		- world referenced
 		- body referenced
 
-- guidelines from research and industry which recommend signed distance field fonts
-- In line with Dingler et al. [40], we used light glyphs on a dark background
+- guidelines from research and industry which recommend ==signed distance field fonts==
+- In line with Dingler et al. [40], we used ==light glyphs on a dark background==
 
 > in an experiment, To provide a context to the VE, we used a sci-fi scene (plausibility could be higher)
 
