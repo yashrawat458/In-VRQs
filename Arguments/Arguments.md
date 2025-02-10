@@ -3,12 +3,13 @@ In addition, there is no clear guide for implementing in-VR questionnaires consi
 On the other hand, the consistency of the interaction method with the type of content in VR can lead to a better user experience (21)[[2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]. It may also reduce the time needed to interact with the UI, which can be important for long questionnaires in VR
 
 > [!Benefits]
-> Recent studies show that when the subject of the questionnaire is related to a feature of experience that can be interrupted by exiting the environment (e.g., perception of presence), implementing the questionnaire inside the environment can lead to better consistency and reliability of the results (41) [[Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments]] ,(2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] ,(39) [[Breaking the experience - Effects of questionnaires in vr user studies]] as well as an increase in motivation, engagement, and presence of participants (58) [[Engagement in in-game questionnaires perspectives from users and experts]] ,(17) [[Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition]].
+> Recent studies show that when the subject of the questionnaire is related to a feature of experience that can be interrupted by exiting the environment (e.g., perception of presence), implementing the questionnaire inside the environment can lead to better consistency and reliability of the results (41) [[Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments]] ,(2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] ,(39) [[(R) Breaking the experience - Effects of questionnaires in vr user studies]] as well as an increase in motivation, engagement, and presence of participants (58) [[Engagement in in-game questionnaires perspectives from users and experts]] ,(17) [[Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition]].
 > 
-> A sudden change of context or taking off the headset to answer the questionnaire can lead to BIP, which can bias the assessment results ,(39) [[Breaking the experience - Effects of questionnaires in vr user studies]].
+> A sudden change of context or taking off the headset to answer the questionnaire can lead to BIP, which can bias the assessment results ,(39) [[(R) Breaking the experience - Effects of questionnaires in vr user studies]].
 
 > [!Why output and plausibility should be a dimension]
 > In a study by Choi et al. (9) [[Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease]], 48 types of bias in self-report surveys are discussed and divided into three main types: Question Design, Questionnaire Design, and Questionnaire Administration. In the case of immersive experiences, Alexandrovsky et al. (2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] argue, based on a study by Schwind et al. (52) [[Using presence questionnaires in virtual reality]], that consistency in questionnaire administration can lead to a reduction in random errors.
+> 
 
 > [!Why not to leave VR]
 > A study by (26) [[The dream is collapsing-  the experience of exiting vr]] shows that leaving a virtual environment can lead to dis-orientation 
@@ -19,6 +20,9 @@ On the other hand, the consistency of the interaction method with the type of co
 > by Graf and Schwind (19) [[Inconsistencies of presence questionnaires in virtual reality]] shows inconsistencies between measurement and main results. This finding is in agreement with Alexandrovsky et al. (2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] findings that presence questionnaires are not sufficient to measure BIPs. They recommend measuring presence in the virtual environment, either behaviourally or physiologically. The study by Graf and Schwind (19) [[Inconsistencies of presence questionnaires in virtual reality]]  also shows that some results are influenced by the environment in which the questionnaires are placed and the type of interaction with them.
 > 
 > However, this result contradicts the results of Regal et al. (41) [[Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments]] study on the influence of using a special environment for question naires or using questionnaires as a scene object. Regal et al.  (41)  report that they could not find any influence of the questionnaire environment on the result of the presence questionnaire.
+
+[[(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces]]
+
 
 
 
@@ -44,6 +48,6 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 
-[[(R) A Literature Review and Taxonomy of In-VR  Questionnaire User Interfaces]]
+
 
 
