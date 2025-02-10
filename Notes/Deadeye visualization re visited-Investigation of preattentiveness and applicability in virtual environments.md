@@ -1,0 +1,1 @@
+Krekhov, A., Cmentowski, S., Waschk, A., Krüger, J.: Deadeye visualization re visited: Investigation of preattentiveness and applicability in virtual environments. IEEE transactions on visualization and computer graphics 26(1), 547–557 (2019)

@@ -1,0 +1,1 @@
+Wijnen, L., Bremner, P., Lemaignan, S., Giuliani, M.: Performing human-robot interaction user studies in virtual reality. In: 2020 29th IEEE International Con ference on Robot and Human Interactive Communication (RO-MAN). pp. 794–794. IEEE (2020)

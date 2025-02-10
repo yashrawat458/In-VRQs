@@ -1,0 +1,1 @@
+Safikhani, S., Holly, M., Kainz, A., Pirker, J.: The influence of in-vr questionnaire design on the user experience. In: Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology. pp. 1–8 (2021)
