@@ -39,6 +39,14 @@
 
 > For demonstrating a greater variety of question types, we additionally included questions about the VE ( 1x numerical, 4x single choice with 2–5 items, 4x multiple choice with 5 and 16 items)
 
+In future work, we aim to investigate text-entry and oral assessment of open-ended questions in VR as [37], [121] and 4 surveyed experts suggested.
+
+Based on the results from the 4 presented studies we conclude: 
+1. Researchers should to apply IN VRQ S in their user studies, 
+2. Pointing and world-anchoring are usable ways to realise IN VRQ S , 
+3. Participants prefer using IN VRQ S over OUT-VRQ S and 
+4. Researcher should be aware of slightly raised physical and mental demands when using IN VRQ S.
+
 
 
 

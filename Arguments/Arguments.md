@@ -11,6 +11,9 @@ In addition, there is no clear guide for implementing in-VR questionnaires consi
 
 > [!NOTE] No significant difference in presence for inVR and outVRQs but the answers are consistent for inVRQs
 >  Schwind et al. - [[Using presence questionnaires in virtual reality]] investigated the effect of filling out a questionnaire directly in VR. They replicated their lab in VR and asked participants to fill out presence questionnaires in physical reality and in VR after exposing participants to a VE at varying degrees of realism. Schwind et al. could not find significant differences of presence between the 2 questionnaire modalities. However, the data revealed a lower variance and, thus, higher consistency of the data when the questions were answered in VR. 
+>  
+> ---
+>  However, our data show no differences in consistency and we cannot confirm their findings of lower variances of presence when surveying in VR
 >  > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
 
 > [!NOTE] Users verbally agreeing to inVRQs
@@ -24,6 +27,10 @@ In addition, there is no clear guide for implementing in-VR questionnaires consi
 >
 >---
 >A majority of 31/38 would prefer to do it in VR, 5 on a computer and 2 had ambivalent opinions.
+> > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
+
+> [!NOTE] Presence questionnaire not adequate for measuring BIP
+> This supports prior findings that presence questionnaires are inadequate to assess BIPs [171].
 > > from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
 
 
