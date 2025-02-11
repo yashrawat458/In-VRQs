@@ -11,3 +11,8 @@ The users rated their player experience with a questionnaire either inside or ou
 
 > [!Why BIP Bad] Why BIP Bad
 > The BIP is associated with physiological effects [85, 86], disorientation and loss of sense of control [48] [[The dream is collapsing-  the experience of exiting vr]].
+
+
+Embedding question-items in the VE offers an opportunity to stay closer to the context of an ongoing experience [32] than out-VR data acquisition al lows, as it avoids a drastic change of context – BIP [3, 44, 74]. Schwind et al. have shown that administering questionnaires directly in VR contributes positively to the consistency of self reports on presence.
+
+They advocate for surveying participants directly in the VE [74].
