@@ -16,3 +16,5 @@ The users rated their player experience with a questionnaire either inside or ou
 Embedding question-items in the VE offers an opportunity to stay closer to the context of an ongoing experience [32] than out-VR data acquisition al lows, as it avoids a drastic change of context – BIP [3, 44, 74]. Schwind et al. have shown that administering questionnaires directly in VR contributes positively to the consistency of self reports on presence.
 
 They advocate for surveying participants directly in the VE [74].
+
+Recent research has already started to embed questionnaires in the VE for various applications [45, 63, 76].
