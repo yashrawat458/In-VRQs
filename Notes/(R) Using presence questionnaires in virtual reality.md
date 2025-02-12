@@ -10,9 +10,9 @@ Schwind, V., Knierim, P., Haas, N., Henze, N.: Using presence questionnaires in 
 > [!NOTE] why inVRQ?
 > in doing so, the person has to re-orientate in the real-world which causes a so-called “break-in-presence (BIP)” [The VR Book].
 
-> This means that surveying subjects about their feeling of presence potential
-- y causes the BIP and compromises the phenomenon that the questionnaire is supposed to be measuring [26, 34, 36]
-> > Leaving VR can cause BIPs which distort the phenomenon that presence questionnaires measure [26, 34, 36]
+> This means that surveying subjects about their feeling of presence potentially causes the BIP and compromises the phenomenon that the questionnaire is supposed to be measuring
+> > Leaving VR can cause BIPs which distort the phenomenon that presence questionnaires measure
+> -> \[[26](https://www.nature.com/articles/nrn1651), [34](https://doi.org/10.1162/1054746041944849), [36](https://doi.org/10.1162/105474600566925)]
 
 > [!NOTE] Potential advantages of inVRQs
 > - Assessing their sense of presence becomes easier for participants when BIPs are reduced. 
@@ -20,8 +20,8 @@ Schwind, V., Knierim, P., Haas, N., Henze, N.: Using presence questionnaires in 
 > - Distracting or biasing cues from the real-world, such as the experimenter, are avoided.
 
 - Furthermore, Sanchez-Vives and Slater argued that using questionnaires causes a “methodological circularity” 
-- “presence researchers must move away from questionnaires in order to make any progress in this area” [34]
-- it has been shown that additional equipment to measure physiological responses can be “the greatest cause of breaks in presence”[18]
+- “presence researchers must move away from questionnaires in order to make any progress in this area” [34](https://doi.org/10.1162/1054746041944849)
+- it has been shown that additional equipment to measure physiological responses can be “the greatest cause of breaks in presence” [[Physiological Responses to Breaks in Presence- A Pilot Study]]
 ![[Pasted image 20250212112554.png]]
 
 ![[Pasted image 20250212112531.png]]
@@ -53,7 +53,8 @@ Schwind, V., Knierim, P., Haas, N., Henze, N.: Using presence questionnaires in 
 
 ---
 ## Further reading
-[ 29, 30, 36]
+- 29 [[Where's Pinky- The Effects of a Reduced Number of Fingers in Virtual Reality]]
+- 30 [[These are not my hands! Effect of Gender on the Perception of Avatar Hands in Virtual Reality]]
 
 
 
