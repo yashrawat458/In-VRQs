@@ -8,13 +8,13 @@ On the other hand, the consistency of the interaction method with the type of co
 > A sudden change of context or taking off the headset to answer the questionnaire can lead to BIP, which can bias the assessment results ,(39) [[(R) Breaking the experience - Effects of questionnaires in vr user studies]].
 
 > [!Why output and plausibility should be a dimension]
-> In a study by Choi et al. (9) [[Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease]], 48 types of bias in self-report surveys are discussed and divided into three main types: Question Design, Questionnaire Design, and Questionnaire Administration. In the case of immersive experiences, Alexandrovsky et al. (2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] argue, based on a study by Schwind et al. (52) [[(P) Using presence questionnaires in virtual reality]], that consistency in questionnaire administration can lead to a reduction in random errors.
+> In a study by Choi et al. (9) [[Peer reviewed- a catalog of biases in questionnaires. Pre venting chronic disease]], 48 types of bias in self-report surveys are discussed and divided into three main types: Question Design, Questionnaire Design, and Questionnaire Administration. In the case of immersive experiences, Alexandrovsky et al. (2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] argue, based on a study by Schwind et al. (52) [[(R) Using presence questionnaires in virtual reality]], that consistency in questionnaire administration can lead to a reduction in random errors.
 > 
 
 > [!Why not to leave VR]
 > A study by (26) [[The dream is collapsing-  the experience of exiting vr]] shows that leaving a virtual environment can lead to dis-orientation 
 > 
-> Schwind et al. (52)[[(P) Using presence questionnaires in virtual reality]]examined the effects of embedding questionnaires in a vir tual environment on participant response. A total of 36 participants took part in the study by playing a first-person shooter game in VR. They found that when questionnaires are used in the virtual world, the variance of the measurement can be kept constant, but this is not the case when questionnaires are used outside the virtual world. This difference could be due to the fact that the probability of a “Break In Presence” (BIP) is lower when using in-VR questionnaires.
+> Schwind et al. (52)[[(R) Using presence questionnaires in virtual reality]]examined the effects of embedding questionnaires in a vir tual environment on participant response. A total of 36 participants took part in the study by playing a first-person shooter game in VR. They found that when questionnaires are used in the virtual world, the variance of the measurement can be kept constant, but this is not the case when questionnaires are used outside the virtual world. This difference could be due to the fact that the probability of a “Break In Presence” (BIP) is lower when using in-VR questionnaires.
 
 > [!Why plausibility over presence and why output as dimension]
 > by Graf and Schwind (19) [[Inconsistencies of presence questionnaires in virtual reality]] shows inconsistencies between measurement and main results. This finding is in agreement with Alexandrovsky et al. (2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] findings that presence questionnaires are not sufficient to measure BIPs. They recommend measuring presence in the virtual environment, either behaviourally or physiologically. The study by Graf and Schwind (19) [[Inconsistencies of presence questionnaires in virtual reality]]  also shows that some results are influenced by the environment in which the questionnaires are placed and the type of interaction with them.
@@ -28,7 +28,7 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 > [!NOTE] No significant difference in presence for inVR and outVRQs but the answers are consistent for inVRQs
->  Schwind et al. - [[(P) Using presence questionnaires in virtual reality]] investigated the effect of filling out a questionnaire directly in VR. They replicated their lab in VR and asked participants to fill out presence questionnaires in physical reality and in VR after exposing participants to a VE at varying degrees of realism. Schwind et al. could not find significant differences of presence between the 2 questionnaire modalities. However, the data revealed a lower variance and, thus, higher consistency of the data when the questions were answered in VR. 
+>  Schwind et al. - [[(R) Using presence questionnaires in virtual reality]] investigated the effect of filling out a questionnaire directly in VR. They replicated their lab in VR and asked participants to fill out presence questionnaires in physical reality and in VR after exposing participants to a VE at varying degrees of realism. Schwind et al. could not find significant differences of presence between the 2 questionnaire modalities. However, the data revealed a lower variance and, thus, higher consistency of the data when the questions were answered in VR. 
 >  
 > ---
 >  However, our data show no differences in consistency and we cannot confirm their findings of lower variances of presence when surveying in VR
@@ -60,17 +60,17 @@ On the other hand, the consistency of the interaction method with the type of co
 
 > [!NOTE] why inVRQ?
 > in doing so, the person has to re-orientate in the real-world which causes a so-called “break-in-presence (BIP)” [The VR Book].
-> from [[(P) Using presence questionnaires in virtual reality]]
+> from [[(R) Using presence questionnaires in virtual reality]]
 
 > [!NOTE] Potential advantages of inVRQs
 > - Assessing their sense of presence becomes easier for participants when BIPs are reduced. 
 > - Staying in VR reduces study duration and avoids the need to adjust after a BIP.
 > - Distracting or biasing cues from the real-world, such as the experimenter, are avoided.
-> from [[(P) Using presence questionnaires in virtual reality]]
+> from [[(R) Using presence questionnaires in virtual reality]]
 
 > [!NOTE] additional measure for the sense of presence
 > variance in responses from real-world questionnaires is potentially an additional measure for the sense of presence when using presence questionnaires.
-> from [[(P) Using presence questionnaires in virtual reality]]
+> from [[(R) Using presence questionnaires in virtual reality]]
 
 
 

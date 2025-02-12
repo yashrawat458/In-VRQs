@@ -15,7 +15,7 @@
 	10. [[Usability of Gamified Knowledge Learning in VR and Desktop-3D]]
 	11. [[Pseudo-Haptic Weight- Changing the Perceived Weight of Virtual Objects By Manipulating Control-Display Ratio]]
 	12. [[Where's Pinky- The Effects of a Reduced Number of Fingers in Virtual Reality]]
-	13. [[(P) Using presence questionnaires in virtual reality]]
+	13. [[(R) Using presence questionnaires in virtual reality]]
 	14. [[These are not my hands! Effect of Gender on the Perception of Avatar Hands in Virtual Reality]]
 	15. [[Social Presence and Cooperation in Large-Scale Multi-User Virtual Reality - The Relevance of Social Interdependence for Location-Based Environments]]
 
