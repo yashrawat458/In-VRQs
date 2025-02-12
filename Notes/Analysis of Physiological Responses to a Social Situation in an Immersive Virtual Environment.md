@@ -1,0 +1,1 @@
+Mel Slater, Christoph Guger, Guenter Edlinger, Robert Leeb, Gert Pfurtscheller, Angus Antley, Maia Garau, Andrea Brogni, and Doron Friedman. 2006. Analysis of Physiological Responses to a Social Situation in an Immersive Virtual Environment. Presence: Teleoperators and Virtual Environments 15, 5 (Oct. 2006), 553–569. DOI:http://dx.doi.org/10/bgcpj7

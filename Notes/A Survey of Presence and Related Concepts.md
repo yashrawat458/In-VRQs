@@ -1,0 +1,1 @@
+Richard Skarbez, Frederick P. Brooks, Jr., and Mary C. Whitton. 2017. A Survey of Presence and Related Concepts. ACM Comput. Surv. 50, 6 (Nov. 2017), 96:1–96:39. DOI:http://dx.doi.org/10/gfz8jf

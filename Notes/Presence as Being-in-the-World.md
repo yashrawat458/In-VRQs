@@ -1,0 +1,1 @@
+Pavel Zahorik and Rick L. Jenison. 1998. Presence as Being-in-the-World. Presence: Teleoperators and Virtual Environments 7, 1 (Feb. 1998), 78–89. DOI: http://dx.doi.org/10/fsg6d6

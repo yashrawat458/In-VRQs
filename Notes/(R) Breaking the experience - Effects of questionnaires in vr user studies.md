@@ -10,22 +10,22 @@ The users rated their player experience with a questionnaire either inside or ou
 
 
 > [!Why BIP Bad] Why BIP Bad
-> The BIP is associated with physiological effects [85, 86], disorientation and loss of sense of control [48] [[The dream is collapsing-  the experience of exiting vr]].
+> The BIP is associated with physiological effects (85) [[Physiological Responses to Breaks in Presence- A Pilot Study]], (86) [[Analysis of Physiological Responses to a Social Situation in an Immersive Virtual Environment]]  , disorientation and loss of sense of control [48] [[The dream is collapsing-  the experience of exiting vr]].
 
 
-Embedding question-items in the VE offers an opportunity to stay closer to the context of an ongoing experience [32] than out-VR data acquisition al lows, as it avoids a drastic change of context – BIP [3, 44, 74]. Schwind et al. have shown that administering questionnaires directly in VR contributes positively to the consistency of self reports on presence.
+Embedding question-items in the VE offers an opportunity to stay closer to the context of an ongoing experience (32) [[Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition]] than out-VR data acquisition al lows, as it avoids a drastic change of context – BIP (3) [[(R) Examining Design Choices of Questionnaires in VR User Studies]], 44, (74) [[(P) Using presence questionnaires in virtual reality]]. Schwind et al. have shown that administering questionnaires directly in VR contributes positively to the consistency of self reports on presence.
 
-They advocate for surveying participants directly in the VE [74].
+They advocate for surveying participants directly in the VE (74) [[(P) Using presence questionnaires in virtual reality]].
 
-Recent research has already started to embed questionnaires in the VE for various applications [45, 63, 76]. However, related work does not offer considerations about the extent and influ ence of BIPs on the VR experience, as triggered by posing questionnaires [3].
+Recent research has already started to embed questionnaires in the VE for various applications [45, 63, 76]. However, related work does not offer considerations about the extent and influ ence of BIPs on the VR experience, as triggered by posing questionnaires (3) [[(R) Examining Design Choices of Questionnaires in VR User Studies]].
 
-We conducted a mixed-design user study (n=50) and em ployed physiological measures of BIP as well as subjective ratings of presence and player experience (PX). Our results show a clear difference of BIPs between INVRQS and OUT VRQS and support the evidence from prior research [31, 74, 89, 85] that less-invasive methods of self-reports increase the validity of the measures.
+We conducted a mixed-design user study (n=50) and em ployed physiological measures of BIP as well as subjective ratings of presence and player experience (PX). Our results show a clear difference of BIPs between INVRQS and OUT VRQS and support the evidence from prior research (31), (74)[[(P) Using presence questionnaires in virtual reality]], (89), (85) [[Physiological Responses to Breaks in Presence- A Pilot Study]]  that less-invasive methods of self-reports increase the validity of the measures.
 
-The sense of presence is considered to be the key feature of VR [23, 41] and is often treated as a metric of effectiveness of VEs [67, 102]. It is commonly defined as the subjective experience of “being there” [60] – in the virtual environment rather than in the physical space [25, 81, 84, 102].
+The sense of presence is considered to be the key feature of VR [23, 41] and is often treated as a metric of effectiveness of VEs (67) [[From Presence to Consciousness through Virtual Reality]] , 102]. It is commonly defined as the subjective experience of “being there” [60] – in the virtual environment rather than in the physical space [25, 81, 84, 102].
 
-Slater et al. extend this defini tion and describe presence as “how well a person’s behaviour in the VE matches their behaviour in similar circumstances in real life” [88] and argue that how data is displayed – and how the participants are able to interact in VR – is more important for presence than the level of realism [67, 84]. Zahorik and Jenison also claim that plausible responses of the VE to the user’s actions engage the sense of presence [103].
+Slater et al. extend this definition and describe presence as “how well a person’s behaviour in the VE matches their behaviour in similar circumstances in real life” [88] and argue that how data is displayed – and how the participants are able to interact in VR – is more important for presence than the level of realism (67) [[From Presence to Consciousness through Virtual Reality]] , (84) [[The Concept of Presence and Its Measurement]]. Zahorik and Jenison also claim that plausible responses of the VE to the user’s actions engage the sense of presence (103) [[Presence as Being-in-the-World]].
 
-Skarbez et al. [81] provide a comprehensive review of literature on presence. The authors identify similarities between the definitions and aggregate common variables and related constructs that contribute to the sense of presence into a conceptual model of Place Illusion, Plausibility Illusion and Social Presence Illusion.
+Skarbez et al. (81) [[A Survey of Presence and Related Concepts]] provide a comprehensive review of literature on presence. The authors identify similarities between the definitions and aggregate common variables and related constructs that contribute to the sense of presence into a conceptual model of Place Illusion, Plausibility Illusion and Social Presence Illusion.
 
 However, since questionnaires on presence are most commonly conducted post-experience, they make for intrusive and not continuous experiences. Therefore, they are inherently unreliable for assessing presence [31, 81, 83]
 
@@ -38,3 +38,8 @@ All INVRQ designs differ in their presentation (2D over lay, world-reference, bo
 As the ongoing debate on questionnaires for measuring presence highlights, they likely cause a break in presence [89, 81] and such sudden interruptions or transitions between realities can affect the emotional state negatively [48].
 
 ![[Pasted image 20250211140944.png]]
+
+
+Regarding H2, the comparisons of the BIPs induced by filling out questionnaires shows evidence that OUTVRQS elicit a stronger BIP than INVRQS.
+
+More over, the ranking of disturbances indicate that the higher visual f idelity gives room for a stronger break in presence, while breaks in VE with a weaker sense of presence are less prominent. In terms of temporal dynamics, the BIP appears more sudden in the blackout and INVRQ. While the EDA signals af ter INVRQS show similar patterns to responses after the black outs and pacified within a few seconds, OUTVRQS stayed significantly above baseline for over 55s (Fig. 4). These out comes are in line with observations on the experience of exit ing VR by Knibbe et al. [48].

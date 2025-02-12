@@ -77,5 +77,12 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 
+> [!NOTE] BIP in outVR
+> Regarding H2, the comparisons of the BIPs induced by filling out questionnaires shows evidence that OUTVRQS elicit a stronger BIP than INVRQS.
+> 
+> from [[(R) Breaking the experience - Effects of questionnaires in vr user studies]]
+
+
+
 
 
