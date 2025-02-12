@@ -1,0 +1,1 @@
+Maria V. Sanchez-Vives and Mel Slater. 2005. From Presence to Consciousness through Virtual Reality. Nature Reviews Neuroscience 6, 4 (April 2005), 332. DOI:http://dx.doi.org/10/bh8pn6

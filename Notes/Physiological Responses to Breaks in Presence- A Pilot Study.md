@@ -1,0 +1,1 @@
+Mel Slater, Andrea Brogni, and Anthony Steed. 2003. Physiological Responses to Breaks in Presence: A Pilot Study. In Annual International Workshop On Presence, Vol. 6. 4.

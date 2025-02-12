@@ -1,0 +1,1 @@
+Mel Slater. 2007. The Concept of Presence and Its Measurement. (July 2007).
