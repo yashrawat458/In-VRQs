@@ -83,6 +83,23 @@ On the other hand, the consistency of the interaction method with the type of co
 > from [[(R) Breaking the experience - Effects of questionnaires in vr user studies]]
 
 
+> [!NOTE] why post test
+> These questionnaires can be used as pre-, real-time, or post-assessment methods. In pre-surveys, the user is not im mersed in a virtual environment. This can lead to a less dominant difference between VR and the traditional desktop presentation of questionnaires. After immersion into the virtual environment, however, it is important to investigate the influence of the type of questionnaire presentation on user experience.
+> 
+> from [[(P) The influence of in-vr questionnaire design on the user experience]]
+
+> [!NOTE] Why not leave vr
+>  Leaving a virtual environment for answering questionnaires related to the presence in that environment can lead to a break in the presence (BIP) and less accurate results [20]. Putze et al. [14] conducted a study to investigate the effect of in-VR questionnaires on the BIP.
+>  
+>   from [[(P) The influence of in-vr questionnaire design on the user experience]]
+
+> [!NOTE] Benefits of using world anchoring and more
+> Alexandrovsky et al. [1] reviewed 15 cases of in VR questionnaires and conducted a study on the applicability and acceptance of the questionnaires among general users and experts. Theyconcludedthatthemajorityofparticipants wouldpreferin-VR questionnaires over out-VR questionnaires. Accordingly, they sug gest the use of the in-VR questionnaire for VR studies. Furthermore, they investigate the influence of the position of the questionnaire in a virtual environment on the user experience. The results show that users prefer pointing and anchoring in the world over other positioning options
+> 
+>  from [[(P) The influence of in-vr questionnaire design on the user experience]]
 
 
-
+> [!NOTE] Intra over extra
+> They also found, however, that using in-VR questionnaires can increase physical and mental demands. Wagner et al. [24] compared different design approaches in the case of the in-VR questionnaire for product design evaluation in the automo tive industry. They concluded that the user prefers the intradiegetic approach to the extra one. The implementation of the intradiegetic can also lead to a higher presence with the same usability as the extradiegetic.
+> 
+> from [[(P) The influence of in-vr questionnaire design on the user experience]]
