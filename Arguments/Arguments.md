@@ -58,6 +58,20 @@ On the other hand, the consistency of the interaction method with the type of co
 > 
 	> from [[(R) Examining Design Choices of Questionnaires in VR User Studies]]
 
+> [!NOTE] why inVRQ?
+> in doing so, the person has to re-orientate in the real-world which causes a so-called “break-in-presence (BIP)” [The VR Book].
+> from [[(P) Using presence questionnaires in virtual reality]]
+
+> [!NOTE] Potential advantages of inVRQs
+> - Assessing their sense of presence becomes easier for participants when BIPs are reduced. 
+> - Staying in VR reduces study duration and avoids the need to adjust after a BIP.
+> - Distracting or biasing cues from the real-world, such as the experimenter, are avoided.
+> from [[(P) Using presence questionnaires in virtual reality]]
+
+> [!NOTE] additional measure for the sense of presence
+> variance in responses from real-world questionnaires is potentially an additional measure for the sense of presence when using presence questionnaires.
+> from [[(P) Using presence questionnaires in virtual reality]]
+
 
 
 
