@@ -33,4 +33,11 @@ Studies on the influence of in-VR questionnaires on outcomes and user experience
 
 Recently, Feick et al. [6] presented an in-VR questionnaire toolkit that was implemented in the Unity game engine to lower the entry barrier of using questionnaires in virtual environments.
 
-Inconsistencies in the environment or interactions can lead to disturbances in the mental model that cause BIP. Accordingly, the question will be raised, whether a visually separated UI can cause a systematic bias in the results. We studied this question by comparing two different design alternatives and compare them with the out-VR questionnaire experience.
+
+> [!NOTE] Why post test
+> Inconsistencies in the environment or interactions can lead to disturbances in the mental model that cause BIP. Accordingly, the question will be raised, whether a visually separated UI can cause a systematic bias in the results. We studied this question by comparing two different design alternatives and compare them with the out-VR questionnaire experience.
+
+
+
+> [!NOTE] How to maintain cont.
+> Two factors accompanied the design language of this toolkit to ensure a consistent VR experience: visualization and interaction. The visual representation of the toolkit was adapted by the overall concept of the virtual scene. Furthermore, the interactions follow the same rules as the other interactive objects in the environment.
