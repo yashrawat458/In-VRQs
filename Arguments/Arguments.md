@@ -103,3 +103,10 @@ On the other hand, the consistency of the interaction method with the type of co
 > They also found, however, that using in-VR questionnaires can increase physical and mental demands. Wagner et al. [24] compared different design approaches in the case of the in-VR questionnaire for product design evaluation in the automo tive industry. They concluded that the user prefers the intradiegetic approach to the extra one. The implementation of the intradiegetic can also lead to a higher presence with the same usability as the extradiegetic.
 > 
 > from [[(P) The influence of in-vr questionnaire design on the user experience]]
+
+
+> [!NOTE] Why post test
+> Inconsistencies in the environment or interactions can lead to disturbances in the mental model that cause BIP. Accordingly, the question will be raised, whether a visually separated UI can cause a systematic bias in the results. We studied this question by comparing two different design alternatives and compare them with the out-VR questionnaire experience.
+> 
+>  from [[(P) The influence of in-vr questionnaire design on the user experience]]
+
