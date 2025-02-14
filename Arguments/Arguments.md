@@ -1,6 +1,6 @@
 In addition, there is no clear guide for implementing in-VR questionnaires considering UI and interaction systems.
 
-On the other hand, the consistency of the interaction method with the type of content in VR can lead to a better user experience (21)[[(P) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]. It may also reduce the time needed to interact with the UI, which can be important for long questionnaires in VR
+On the other hand, the consistency of the interaction method with the type of content in VR can lead to a better user experience (21)[[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]. It may also reduce the time needed to interact with the UI, which can be important for long questionnaires in VR
 
 > [!Benefits]
 > Recent studies show that when the subject of the questionnaire is related to a feature of experience that can be interrupted by exiting the environment (e.g., perception of presence), implementing the questionnaire inside the environment can lead to better consistency and reliability of the results (41) [[Questionnaires embedded in virtual environments- reliability and positioning of rating scales in virtual environments]] ,(2) [[(R) Examining Design Choices of Questionnaires in VR User Studies]] ,(39) [[(R) Breaking the experience - Effects of questionnaires in vr user studies]] as well as an increase in motivation, engagement, and presence of participants (58) [[Engagement in in-game questionnaires perspectives from users and experts]] ,(17) [[Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition]].
@@ -110,3 +110,45 @@ On the other hand, the consistency of the interaction method with the type of co
 > 
 >  from [[(P) The influence of in-vr questionnaire design on the user experience]]
 
+---
+
+> [!NOTE] why should we focus on interfaces an interaction paradigm of a questionnaire in VR
+> Choosing the wrong interaction paradigms can therefore break the feeling of presence
+> *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
+
+> [!NOTE] drawbacks of speech interface
+> People might be reluctant to use speech commands in public spaces.
+> 
+> ---
+> While speech user interfaces are becoming more and more popular recently, discoverability still is a big issue compared to other user interfaces. While in other interfaces especially 2D interfaces one almost instantly gets an idea of the scope of functions you can use, a SI usually lacks such an overview of functionality.
+> 
+> ---
+> Also, the SI does not explicitly offer an undo option like the arrow in the opposite direction for the 2D user interface or the naturalness of the movement when using a 3D interface
+> 
+> ---
+> Sometimes it is just faster to do something on your own (2D & 3D interface) than to ask someone for help (SI).
+> 
+>  *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
+
+> [!NOTE] Text input as a factor for loss of immersion (BIP?)
+> 2D interface was rated less convincing. Due to the arbitrary nature of text inputs [34 (a book -> understanding virtual reality)] at ﬁrst, they seem inappropriate for immersive environments [40]. 
+> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[Selection-based Text Entry in Virtual Reality]]].
+> 
+> *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
+
+> [!NOTE] in terms of overall experience 
+> The 3D interface was also rated fairly well, while the 2D input mode was rated the worst.
+> 
+> *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
+
+> [!NOTE] which interface paradigm is appropriate (Guidelines)
+> - if fun and perceived presence is the most important, a 3D interface is recommended, 
+> - if there are a lot of objects to be manipulated fast and accurate a 2D interface might be the best choice
+> - if the interface should be easy to learn and a lot of text needs to be entered, speech might be the best choice.
+> 
+> *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
+
+#Discussion
+> Would it be easier for users to create their mental model for the SI if the interface was represented by a virtual avatar?
+
+---
