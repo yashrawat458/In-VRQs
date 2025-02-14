@@ -15,7 +15,7 @@ In recent years, the effect of in-VR questionnaires compared to out-VR ones on s
 
 The study by Krommel et al. (7) [[Integrated questionnaires- maintaining presence in game environments for self-reported data acquisition]] found that integrating questionnaires as a game element can lead to significantly higher participant presence. Furthermore, in-game questionnaires can increase the engagement of participants and motivate them to respond (22) [[Engagement in in-game questionnaires perspectives from users and experts]]  . These findings can have an even more dominant influence on the studies related to immersive VR experiences.
 
-Studies on the influence of in-VR questionnaires on outcomes and user experience have recently received more attention. Schwind et al. [18] examined the effect of filling out questionnaires in VR in a study with 36 participants. These participants were asked to fill in the following questionnaires: SUS [23], Witmer & Singer (WS) [27], IPQ and NASA TLX[9] after they had completed two game levels in VR. The authors performed these levels using a realistic and simplified design approach, and the user was asked to answer the questionnaire both in-VR and out-VR. The results showed that the in-VR questionnaire can shorten the overall study time and increase the consistency of the variance without significantly changing the survey results.
+Studies on the influence of in-VR questionnaires on outcomes and user experience have recently received more attention. Schwind et al. (18) [[(R) Using presence questionnaires in virtual reality]] examined the effect of filling out questionnaires in VR in a study with 36 participants. These participants were asked to fill in the following questionnaires: SUS [23], Witmer & Singer (WS) [27], IPQ and NASA TLX[9] after they had completed two game levels in VR. The authors performed these levels using a realistic and simplified design approach, and the user was asked to answer the questionnaire both in-VR and out-VR. The results showed that the in-VR questionnaire can shorten the overall study time and increase the consistency of the variance without significantly changing the survey results.
 
 
 > [!NOTE] Why not leave vr
@@ -31,7 +31,7 @@ Studies on the influence of in-VR questionnaires on outcomes and user experience
 > They also found, however, that using in-VR questionnaires can increase physical and mental demands. Wagner et al. [24] compared different design approaches in the case of the in-VR questionnaire for product design evaluation in the automo tive industry. They concluded that the user prefers the intradiegetic approach to the extra one. The implementation of the intradiegetic can also lead to a higher presence with the same usability as the extradiegetic.
 
 
-Recently, Feick et al. [6] presented an in-VR questionnaire toolkit that was implemented in the Unity game engine to lower the entry barrier of using questionnaires in virtual environments.
+Recently, Feick et al. (6) [[The Virtual Reality Questionnaire Toolkit]]  presented an in-VR questionnaire toolkit that was implemented in the Unity game engine to lower the entry barrier of using questionnaires in virtual environments.
 
 
 > [!NOTE] Why post test
