@@ -132,7 +132,7 @@ On the other hand, the consistency of the interaction method with the type of co
 
 > [!NOTE] Text input as a factor for loss of immersion (BIP?)
 > 2D interface was rated less convincing. Due to the arbitrary nature of text inputs [34 (a book -> understanding virtual reality)] at ﬁrst, they seem inappropriate for immersive environments [40]. 
-> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[Selection-based Text Entry in Virtual Reality]]].
+> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[(P) Selection-based Text Entry in Virtual Reality]]].
 > 
 > *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
 
