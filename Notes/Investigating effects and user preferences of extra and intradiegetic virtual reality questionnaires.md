@@ -1,1 +1,0 @@
-Wagener, N., Stamer, M., Schöning, J., Tümler, J.: Investigating effects and user preferences of extra-and intradiegetic virtual reality questionnaires. In: 26th ACM Symposium on Virtual Reality Software and Technology. pp. 1–11 (2020)
