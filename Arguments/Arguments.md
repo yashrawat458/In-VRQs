@@ -84,7 +84,7 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 > [!NOTE] why post test
-> These questionnaires can be used as pre-, real-time, or post-assessment methods. In pre-surveys, the user is not im mersed in a virtual environment. This can lead to a less dominant difference between VR and the traditional desktop presentation of questionnaires. After immersion into the virtual environment, however, it is important to investigate the influence of the type of questionnaire presentation on user experience.
+> These questionnaires can be used as pre-, real-time, or post-assessment methods. In pre-surveys, the user is not immersed in a virtual environment. This can lead to a less dominant difference between VR and the traditional desktop presentation of questionnaires. After immersion into the virtual environment, however, it is important to investigate the influence of the type of questionnaire presentation on user experience.
 > 
 > from [[(R) The influence of in-vr questionnaire design on the user experience]]
 
