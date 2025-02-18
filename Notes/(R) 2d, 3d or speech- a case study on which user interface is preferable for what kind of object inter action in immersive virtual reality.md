@@ -1,3 +1,10 @@
+---
+Read: Yes
+tags:
+  - Speech
+  - 2D-Interface
+  - 3D-Interface
+---
 . Hepperle, D., Weiß, Y., Siess, A., Wölfel, M.: 2d, 3d or speech? a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality. Computers & Graphics 82, 321– 331 (2019). https://doi.org/https://doi.org/10.1016/j.cag.2019.06.003, http: //www.sciencedirect.com/science/article/pii/S0097849319300974
 
 [[2D, 3D or speech - A case study on which user interface is preferable.pdf]]
@@ -44,7 +51,7 @@ This category includes the input of free texts for the independent and individua
 
 > [!NOTE] Text input as a factor for loss of immersion (BIP?)
 > 2D interface was rated less convincing. Due to the arbitrary nature of text inputs [34 (a book -> understanding virtual reality)] at ﬁrst, they seem inappropriate for immersive environments [40]. 
-> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[Selection-based Text Entry in Virtual Reality]]].
+> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[(P) Selection-based Text Entry in Virtual Reality]]].
 > > 
 
 > [!NOTE] in terms of overall experience 

@@ -84,7 +84,7 @@ On the other hand, the consistency of the interaction method with the type of co
 
 
 > [!NOTE] why post test
-> These questionnaires can be used as pre-, real-time, or post-assessment methods. In pre-surveys, the user is not im mersed in a virtual environment. This can lead to a less dominant difference between VR and the traditional desktop presentation of questionnaires. After immersion into the virtual environment, however, it is important to investigate the influence of the type of questionnaire presentation on user experience.
+> These questionnaires can be used as pre-, real-time, or post-assessment methods. In pre-surveys, the user is not immersed in a virtual environment. This can lead to a less dominant difference between VR and the traditional desktop presentation of questionnaires. After immersion into the virtual environment, however, it is important to investigate the influence of the type of questionnaire presentation on user experience.
 > 
 > from [[(R) The influence of in-vr questionnaire design on the user experience]]
 
@@ -132,7 +132,7 @@ On the other hand, the consistency of the interaction method with the type of co
 
 > [!NOTE] Text input as a factor for loss of immersion (BIP?)
 > 2D interface was rated less convincing. Due to the arbitrary nature of text inputs [34 (a book -> understanding virtual reality)] at ﬁrst, they seem inappropriate for immersive environments [40]. 
-> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[Selection-based Text Entry in Virtual Reality]]].
+> > Whether text input generally leads to a loss of immersion is currently still under discussion [34 (a book -> understanding virtual reality),[[(P) Selection-based Text Entry in Virtual Reality]]].
 > 
 > *from [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]]* 
 
