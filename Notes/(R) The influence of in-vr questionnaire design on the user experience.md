@@ -2,7 +2,9 @@ Safikhani, S., Holly, M., Kainz, A., Pirker, J.: The influence of in-vr question
 
 VRST 21
 
-The first results indicate that there is no significant difference in the case of usability and presence between different design layouts. Furthermore, we could not find a significant dif ference also for the task load except between 2D and web-based layout for mental demand and frustration as well as the duration of completing the questionnaire. The results also indicate that users generally prefer in-VR questionnaire designs to the traditional ones.
+[[The Influence of in-VR Questionnaire Design on the User.pdf]]
+
+The first results indicate that there is no significant difference in the case of usability and presence between different design layouts. Furthermore, we could not find a significant difference also for the task load except between 2D and web-based layout for mental demand and frustration as well as the duration of completing the questionnaire. The results also indicate that users generally prefer in-VR questionnaire designs to the traditional ones.
 
 Hepperle et al. investigated the influence of 3D, 2D, and speech interactions in the case of usability and user preferences (10) [[(R) 2d, 3d or speech- a case study on which user interface is preferable for what kind of object inter action in immersive virtual reality]] . Their results indicated that 2D gives a good overview, but speech is faster and 3D is more fun.
 

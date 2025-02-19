@@ -1,6 +1,13 @@
 [[Examining Design Choices of Questionnaires in VR User Studies.pdf]]
-- Iteratively implemented an in-VRQ tool and applied it on 2 user studies to test it out
-- they did an extensive lit review and found 15 papers using in-VRQs
+
+## What all did the authors do
+1. Extensive Literature review
+2. expert online survey
+3. 2 iterative user studies
+---
+
+- Iteratively implemented an in-VRQ tool and applied it on ==2 user studies== to test it out
+- they did an ==extensive lit review== and found 15 papers using in-VRQs
 - ![[Pasted image 20250210154958.png]]
 - papers with inVRQs
 	1. [[The Effect of Field-of-View Restriction on Sex Bias in VR Sickness and Spatial Navigation Performance]]
@@ -30,7 +37,7 @@
 	- world attached
 	- Head attached
 	- body attached
-- They did and expert online survey for inVRQs
+- ==They did and expert online survey for inVRQs==
 	- experts had a positive attitude towards inVRQs
 	- there is no standard method for inVRQ
 	- inVRQ do not seem to be much usable (usability can be low)
